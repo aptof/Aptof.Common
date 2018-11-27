@@ -2,6 +2,19 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Version>1.0.1</Version>
+    <PackageLicenseUrl>http://opensource.org/licenses/MS-PL</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/aptof/Aptof.Common</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/aptof/Aptof.Common</RepositoryUrl>
+    <RepositoryType>Public</RepositoryType>
+    <PackageTags>Utility</PackageTags>
+    <PackageReleaseNotes>Rupees</PackageReleaseNotes>
+    <Description>For personal use. Anyway you can use it if you find helpful</Description>
+    <Authors>John McClane</Authors>
+    <Company>Aptof</Company>
+    <NeutralLanguage>en-IN</NeutralLanguage>
+    <Copyright>Aptof 2018</Copyright>
   </PropertyGroup>
 
 </Project>

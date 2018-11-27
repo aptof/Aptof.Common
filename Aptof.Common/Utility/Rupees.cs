@@ -82,7 +82,7 @@ namespace Aptof.Common.Utility
 
         public string InRupees()
         {
-            return Value.ToString("C2");
+            return Value.ToString("C2") + "/-";
         }
 
         private readonly string[] ZeroToNineteenDigitMap = new[]
